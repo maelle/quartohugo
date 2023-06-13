@@ -1,0 +1,14 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```md
+
+{{< gallery >}}
+{{< figureforgallery src="search2.png" alt="Screenshot of r-universe simple search results." >}}
+{{< figureforgallery src="search3.png" alt="Screenshot of r-universe advanced search query." >}}
+{{< figureforgallery src="search4.png" alt="Screenshot of r-universe advanced search results." >}}
+{{< /gallery >}}
+```
