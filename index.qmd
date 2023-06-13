@@ -4,7 +4,7 @@ This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-```md
+```{shortcodes=false}
 
 {{< gallery >}}
 {{< figureforgallery src="search2.png" alt="Screenshot of r-universe simple search results." >}}
